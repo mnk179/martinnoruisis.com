@@ -46,9 +46,10 @@
     {{ end }}
   </head>
 
-  <body class="ma0 {{ $.Param "body_classes"  | default "avenir bg-near-white"}}{{ with getenv "HUGO_ENV" }} {{ . }}{{ end }}">
+  <body class="ma0 {{ $.Param "body_classes"  | default "helvetica bg-gold"}}{{ with getenv "HUGO_ENV" }} {{ . }}{{ end }}">
 
     {{ block "header" . }}{{ partial "site-header.html" .}}{{ end }}
+    {{ partial "site-navigation.html" . }}
     <main class="pb7" role="main">
       {{ block "main" . }}{{ end }}
     </main>

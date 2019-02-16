@@ -3,3 +3,17 @@
 #TableOfContents ul li {
   margin-bottom: 1em;
 }
+
+.strong-underline {
+  padding-bottom: 35px;
+  border-bottom-style: solid;
+  border-bottom-width: 0.14em;
+} 
+
+.teal-blue {
+  color: #33658A;
+}
+
+.dark-slate-gray {
+  color: #2F4858;
+}
