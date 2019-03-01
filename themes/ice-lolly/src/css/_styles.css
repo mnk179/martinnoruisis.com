@@ -1,5 +1,10 @@
 /* Put your custom styles here and run `npm start` from the "src" directory on */
 
+:root {
+  --teal-blue: #33658A;
+  --dark-slate-gray: #2F4858;
+}
+
 #TableOfContents ul li {
   margin-bottom: 1em;
 }
@@ -10,9 +15,13 @@
 } 
 
 .teal-blue {
-  color: #33658A;
+  color: var(--teal-blue);
+}
+
+.hover-teal-blue:hover {
+  color: var(--teal-blue);
 }
 
 .dark-slate-gray {
-  color: #2F4858;
+  color: var(--dark-slate-gray);
 }
