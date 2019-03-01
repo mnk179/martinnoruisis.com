@@ -48,8 +48,8 @@
 
   <body class="ma0 {{ $.Param "body_classes"  | default "helvetica bg-gold"}}{{ with getenv "HUGO_ENV" }} {{ . }}{{ end }}">
 
-    {{ block "header" . }}{{ partial "site-header.html" .}}{{ end }}
-    {{ partial "site-navigation.html" . }}
+    {{ block "header" . }}{{ partial "site-header.html" . }}{{ end }}
+    {{ block "nav" . }}{{ partial "site-navigation.html" . }}{{ end }}
     <main class="pb7" role="main">
       {{ block "main" . }}{{ end }}
     </main>

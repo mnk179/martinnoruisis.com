@@ -25,3 +25,19 @@
 .dark-slate-gray {
   color: var(--dark-slate-gray);
 }
+
+.bg-gold .nav-vari-color {
+  color: var(--dark-slate-gray);
+}
+
+.bg-gold .nav-vari-color:hover {
+  color: var(--teal-blue);
+}
+
+.bg-orange .nav-vari-color {
+  color: var(--teal-blue);
+}
+
+.bg-orange .nav-vari-color:hover {
+  color: var(--dark-slate-gray);
+}

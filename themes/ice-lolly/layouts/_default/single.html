@@ -3,6 +3,9 @@
   {{ partial "page-header.html" . }}
 {{ end }}
 
+{{ define "nav" }}
+{{ end }}
+
 {{ define "main" }}
   {{ $section := .Site.GetPage "section" .Section }}
   <article class="flex-l flex-wrap justify-between mw8 center ph3">
