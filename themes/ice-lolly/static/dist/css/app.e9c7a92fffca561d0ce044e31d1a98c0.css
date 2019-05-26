@@ -5841,7 +5841,6 @@ pre {
 }
 
 .strong-underline {
-  padding-bottom: 35px;
   border-bottom-style: solid;
   border-bottom-width: 0.14em;
 }
@@ -5850,6 +5849,43 @@ pre {
   color: #33658A;
 }
 
+.hover-teal-blue:hover {
+  color: #33658A;
+}
+
 .dark-slate-gray {
   color: #2F4858;
+}
+
+.bg-gold .nav-vari-color {
+  color: #2F4858;
+}
+
+.bg-gold .nav-vari-color:hover {
+  color: #33658A;
+}
+
+.bg-orange .nav-vari-color {
+  color: #33658A;
+}
+
+.bg-orange .nav-vari-color:hover {
+  color: #2F4858;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 10px;
+  border: 1px solid black;
+}
+
+th {
+  text-align: left;
+}
+
+@media screen and (min-width: 30em) {
+  .f2-5-ns { font-size: 1.6rem; }
 }

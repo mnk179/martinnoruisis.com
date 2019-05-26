@@ -41,3 +41,20 @@
 .bg-orange .nav-vari-color:hover {
   color: var(--dark-slate-gray);
 }
+
+table {
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 10px;
+  border: 1px solid black;
+}
+
+th {
+  text-align: left;
+}
+
+@media screen and (min-width: 30em) {
+  .f2-5-ns { font-size: 1.6rem; }
+}

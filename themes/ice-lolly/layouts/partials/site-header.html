@@ -19,12 +19,12 @@
 {{ else }}
   <header>
     <div class="{{ .Site.Params.background_color_class | default "bg-orange" }}">
-      <div class="pv3 ph3 ph4-ns">
+      <div class="pt6 pb3 ph3 ph4-ns">
         <h1 class="dib ml6-l f1-l b-ns strong-underline teal-blue dib pr4 mb0 lh-title">
           {{ .Site.Title }}.
         </h1>
         {{ with .Params.description }}
-          <h2 class="fw1 f5 f3-l teal-blue measure-wide-l center lh-copy mt3 mb4">
+          <h2 class="fw1 f5 f3-l teal-blue measure-wide-l center lh-copy mb4">
             {{ . }}
           </h2>
         {{ end }}

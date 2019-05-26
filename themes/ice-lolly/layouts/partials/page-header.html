@@ -33,7 +33,7 @@
   <header class="cover bg-top" style="background-image: url('{{ $featured_image }}');">
     <div class="{{ .Site.Params.cover_dimming_class | default "bg-orange" }}">
       <div class="pv4 pv6-l ph3 ph4-ns">
-        <h1 class="ml6-l f1-l b-ns strong-underline teal-blue dib pr4 mb0 lh-title">
+        <h1 class="ml4-l f2-l b-ns strong-underline teal-blue dib pr4 mv0">
           {{ .Site.Title }}.
         </h1>
         {{ with .Params.description }}
@@ -48,8 +48,10 @@
   <header>
     <div class="{{ .Site.Params.background_color_class | default "bg-orange" }}">
       <div class="pv3 ph3 ph4-ns">
-        <h1 class="ml6-l f1-l b-ns strong-underline teal-blue dib pr4 mb0 lh-title">
-          {{ .Site.Title }}.
+        <h1 class="ml4-l f2-l b-ns strong-underline teal-blue dib pr4 mv0">
+          <a class="nav-vari-color no-underline" href="{{ .Site.BaseURL }}" title="{{ .Site.Title }} page">
+            {{ .Site.Title }}.
+          </a>
         </h1>
         {{ with .Params.description }}
           <h2 class="fw1 f5 f3-l teal-blue measure-wide-l center lh-copy mt3 mb4">
