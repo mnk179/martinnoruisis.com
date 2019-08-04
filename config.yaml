@@ -1,4 +1,24 @@
 baseURL: https://www.martinnoruisis.com
 languageCode: en-gb
-title: Martin Noruisis
+title: Martin Noruišis 
 theme: ice-lolly
+params:
+  dateFormat: "02 Jan 2006"
+menu: 
+  main:
+    - identifier: about
+      name: About
+      title: about
+      url: /about/
+    - identifier: blog
+      name: Blog
+      title: blog
+      url: /blog/
+    - identifier: github
+      name: GitHub
+      title: github
+      url: https://github.com/mnk179
+    - identifier: linkedin
+      name: LinkedIn
+      title: linkedin
+      url: https://www.linkedin.com/in/martinnoruisis
