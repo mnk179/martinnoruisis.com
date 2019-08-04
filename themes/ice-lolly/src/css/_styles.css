@@ -24,10 +24,12 @@
 
 .site-title {
   color: var(--near-black);
+  transition: color 0.15s ease-in;
 }
 
 .site-title:hover {
   color: var(--dark-slate-gray);
+  transition: color 0.15s ease-in;
 }
 
 .dark-slate-gray {
@@ -36,18 +38,22 @@
 
 .bg-content .nav-vari-color {
   color: var(--teal-blue);
+  transition: color 0.15s ease-in;
 }
 
 .bg-content .nav-vari-color:hover {
   color: var(--dark-slate-gray);
+  transition: color 0.15s ease-in;
 }
 
 .bg-header .nav-vari-color {
   color: var(--near-black);
+  transition: color 0.15s ease-in;
 }
 
 .bg-header .nav-vari-color:hover {
   color: var(--dark-slate-gray);
+  transition: color 0.15s ease-in;
 }
 
 table {
