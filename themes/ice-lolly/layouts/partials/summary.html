@@ -1,6 +1,6 @@
 <div class="relative w-100 mb4 nested-copy-line-height">
   <div class="mb3 pa4 dark-gray overflow-hidden">
-    <span class="f6 db">{{ humanize .Section }}</span>
+    <span class="f7 b helvetica tracked">{{with humanize .Section }}{{. | upper }}{{end}}</span>
     <h1 class="f3 black">
       <a href="{{ .URL }}" class="link black dim">
         {{ .Title }}
