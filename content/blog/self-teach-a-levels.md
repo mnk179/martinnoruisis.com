@@ -3,19 +3,17 @@ title: 'Self-teaching A Levels: The Cost'
 date: 2019-02-15T20:41:07Z
 ---
 
-The General Certificate of Education Advanced Level (or simply A Levels) is a qualification that is respected worldwide. If you are, like I was, considering applying to British universities, you'll most likely have heard of A Levels. It's the most common pre-university qualification in the United Kingdom and is available internationally, too.
+The General Certificate of Education Advanced Level (or simply A Levels) is a globally recognised pre-university qualification. Before coming to the University of Bristol, I self-taught myself 4 A Level subjects.
 
-I will discuss teaching yourself the full three or four A Levels as an alternative to school. This post is not aimed at those wishing to self-teach an additional A Level because their sixth-form does not offer it. There are other internationally recognised exams that you can self-teach for, but I'm only familiar with A Levels.
-
-Let's discuss why one would want to do something like this. To do that I'll first tell you about my own experience
+I will discuss the viability of teaching yourself A Levels as an alternative to regular school. I'll consider various aspects of this approach, starting with cost. But first I'll give a short introduction as to why one would choose to do this, beginning with my own story.
 
 ## My story
 
-I attended a *gymnasium* in Lithuania, a type of upper secondary school that roughly translates to sixth-form college in the UK. In Lithuania, we do 12 years of school as opposed to UK's 13. The duration of an undergraduate university degree is different, too. 4 years in Lithuania versus the UK's three for a Bachelor's degree. Understandably, this results in slightly different knowledge levels of first years in the two countries. For this reason (and probably a bunch of others) some institutions in the UK choose not to accept the Lithuanian school leaving qualification, the _Brandos atestatas_.
+I attended a *gymnasium* in Lithuania, a type of upper secondary school that roughly translates to sixth-form college in the UK. In Lithuania, we do 12 years of school as opposed to the UK's 13. The duration of an undergraduate university degree is different, too. 4 years in Lithuania versus the UK's three for a Bachelor's degree. Understandably, this results in slightly different knowledge levels of first years in the two countries. For this reason (and probably a bunch of others) some institutions in the UK choose not to accept the Lithuanian school leaving qualification, the _Brandos atestatas_.
 
-I set my eyes on studying in the United Kingdom way back in year 1 or 2 of *gymnasium* (year 9 or 10 out of 12). I noticed that a few of the institutions I was considering weren't too fond of *Brandos atestatas*. These universities wouldn't even consider applicants with that qualification. Instead, they suggest to apply after finishing one year of university in Lithuania.
+I set my eyes on studying in the United Kingdom way back in year 1 or 2 of *gymnasium* (year 9 or 10 out of 12). I noticed that a few of the institutions I was considering weren't too fond of *Brandos atestatas*. These universities wouldn't even consider applicants with that qualification. Instead, they suggest applying after finishing one year of university in Lithuania.
 
-There was another issue. The Lithuanian Language and Literature exam is essentially compulsory in Lithuanian schools. I enjoy reading, a _lot_, but I could never analyse the assigned texts in quite the right way. Therefore I knew the exam would mess up my overall average and since UK universities actually give considerable weight to the average score in the *Brandos atestatas*, that was a problem.
+There was another issue. The Lithuanian Language and Literature exam is essentially compulsory in Lithuanian schools. I enjoy reading, a _lot_, but I could never analyse the assigned texts in quite the right way. Therefore I knew the exam would mess up my overall average and since UK universities give considerable weight to the average score in the *Brandos atestatas*, that was a problem.
 
 Keeping all that in mind, I started noticing my Maths grades gradually dropping as well. I started looking for extra material and ended up buying some Edexcel Mathematics textbooks. I immediately noticed that these were (in my opinion) much easier to follow than my school textbooks. Soon after, I discovered that I can teach myself the content and take the exam as a private candidate at the local British Council. I ended up taking 3 A Levels alongside school.
 
@@ -29,7 +27,7 @@ Teaching yourself 3-4 subjects, something that, at school, is taught by professi
 
 ## How?
 
-Put simply, all you need to do is learn the content and take the exams. For international students (outside the UK) there are two main examination boards: **Cambridge Assessment International Education** (**CAIE**, formerly known as **Cambridge International Examinations**) and  **Edexcel International**. I will focus on **CAIE** as it was the one I went with.
+Put simply, all you need to do is learn the content and take the exams. For international students (outside the UK) there are two main examination boards: **Cambridge Assessment International Education** (**CAIE**, formerly known as **Cambridge International Examinations**) and **Edexcel International**. I will focus on **CAIE** as it was the one I went with.
 
 ### Exam boards
 
@@ -91,7 +89,7 @@ _Prices include shipping to the UK and are in GBP rounded up to the nearest poun
 
 So the full set of new textbooks will set you back about £94, £76 if you go with used ones. Keep in mind that the prices might fluctuate and the prices differ depending on the series/publisher. For Maths, there are more than 4 different series/edition combos you can go with. But I found the new Oxford (Oxford University Press) series to be the best.
 
-Therefore, you should expect to spend about a 100 pounds on textbooks if we add a small safety margin on top.
+Therefore, you should expect to spend about a hundred pounds on textbooks if we add a small safety margin on top.
 
 ## Exam fees
 
@@ -104,7 +102,7 @@ This is the big one. Let's continue with our Maths example. You will need to sit
 | Courier expenses | £53     | 3          | £159       |
 | **_Total_**      | **_–_** | **_–_**    | **_£480_** |
 
-These are roughly what I paid at my local centre. Consider these a very **rough** guide as they depend entirely on your exam centre. Courier expenses probably will vary the most as these depend on where the exam centre is located and how many other private candidates will split the fee with you. Also, it matters whether you're sitting all the papers in one exam series or are splitting them up. Courier fees will be high and can't really be avoided – the exam scripts have to be shipped as soon as possible, preferably with a 1-2 day delivery service to the UK and that costs a lot.
+These are roughly what I paid at my local centre. Consider these a very **rough** guide as they depend entirely on your exam centre. Courier expenses probably will vary the most as these depend on where the exam centre is located and how many other private candidates will split the fee with you. Also, it matters whether you're sitting all the papers in one exam series or are splitting them up. Courier fees will be high and can't be avoided – the exam scripts have to be shipped as soon as possible, preferably with a 1-2 day delivery service to the UK and that costs a lot.
 
 So if we round up to £500 just to be safe we end up with a £600 total for the full CAIE Mathematics A Level. If we assume that you'll be taking the standard three subjects at A Level and the other two cost roughly the same amount, we are looking at about 1,800 pounds total. Considering you're expecting to pay upwards of £9,250 for a year of university, this is not that much.
 
@@ -112,4 +110,4 @@ So if we round up to £500 just to be safe we end up with a £600 total for the 
 
 So it seems that self-teaching A Levels is entirely possible and quite cost-effective. Whether it is preferable is a different topic.
 
-The point of this post was to introduce self-teaching A Levels as an alternative to school. It is possible but I'd dissuade you from doing this unless you absolutely have no other option.
+The point of this post was to introduce self-teaching A Levels as an alternative to school. It is possible but I'd dissuade you from doing this unless you have no other option.
