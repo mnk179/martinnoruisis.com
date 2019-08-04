@@ -1,8 +1,8 @@
 /* Put your custom styles here and run `npm start` from the "src" directory on */
 
 :root {
-  --teal-blue: #33658A;
-  --dark-slate-gray: #2F4858;
+  --teal-blue: #33658a;
+  --dark-slate-gray: #2f4858;
 }
 
 #TableOfContents ul li {
@@ -12,33 +12,41 @@
 .strong-underline {
   border-bottom-style: solid;
   border-bottom-width: 0.14em;
-} 
-
-.teal-blue {
-  color: var(--teal-blue);
 }
 
-.hover-teal-blue:hover {
-  color: var(--teal-blue);
+.bg-header {
+  background-color: var(--light-blue);
+}
+
+.bg-content {
+  background-color: var(--washed-blue);
+}
+
+.site-title {
+  color: var(--near-black);
+}
+
+.site-title:hover {
+  color: var(--dark-slate-gray);
 }
 
 .dark-slate-gray {
   color: var(--dark-slate-gray);
 }
 
-.bg-gold .nav-vari-color {
+.bg-content .nav-vari-color {
+  color: var(--teal-blue);
+}
+
+.bg-content .nav-vari-color:hover {
   color: var(--dark-slate-gray);
 }
 
-.bg-gold .nav-vari-color:hover {
-  color: var(--teal-blue);
+.bg-header .nav-vari-color {
+  color: var(--near-black);
 }
 
-.bg-orange .nav-vari-color {
-  color: var(--teal-blue);
-}
-
-.bg-orange .nav-vari-color:hover {
+.bg-header .nav-vari-color:hover {
   color: var(--dark-slate-gray);
 }
 
@@ -46,7 +54,8 @@ table {
   border-collapse: collapse;
 }
 
-th, td {
+th,
+td {
   padding: 10px;
   border: 1px solid black;
 }
@@ -56,5 +65,7 @@ th {
 }
 
 @media screen and (min-width: 30em) {
-  .f2-5-ns { font-size: 1.6rem; }
+  .f2-5-ns {
+    font-size: 1.6rem;
+  }
 }

@@ -1,34 +1,34 @@
 {{ $featured_image := .Param "featured_image"}}
 {{ if $featured_image }}
-  {{/* Trimming the slash and adding absURL make sure the image works no matter where our site lives */}}
-  {{ $featured_image := (trim $featured_image "/") | absURL }}
-  <header class="cover bg-top" style="background-image: url('{{ $featured_image }}');">
-    <div class="{{ .Site.Params.cover_dimming_class | default "bg-black-60" }}">
-      <div class="pv4 pv6-l ph3 ph4-ns">
-        <h1 class="ml6-l f1-l b-ns strong-underline white-90 mb0 lh-title">
-          {{ .Site.Title }}.
-        </h1>
-        {{ with .Params.description }}
-          <h2 class="fw1 f5 f3-l white-80 measure-wide-l center mt3">
-            {{ . }}
-          </h2>
-        {{ end }}
-      </div>
+{{/* Trimming the slash and adding absURL make sure the image works no matter where our site lives */}}
+{{ $featured_image := (trim $featured_image "/") | absURL }}
+<header class="cover bg-top" style="background-image: url('{{ $featured_image }}');">
+  <div class="{{ .Site.Params.cover_dimming_class | default "bg-black-60" }}">
+    <div class="pv4 pv6-l ph3 ph4-ns">
+      <h1 class="ml6-l f1-l b-ns strong-underline white-90 mb0 lh-title">
+        {{ .Site.Title }}.
+      </h1>
+      {{ with .Params.description }}
+      <h2 class="fw1 f5 f3-l white-80 measure-wide-l center mt3">
+        {{ . }}
+      </h2>
+      {{ end }}
     </div>
-  </header>
+  </div>
+</header>
 {{ else }}
-  <header>
-    <div class="{{ .Site.Params.background_color_class | default "bg-orange" }}">
-      <div class="pt6 pb3 ph3 ph4-ns">
-        <h1 class="dib ml6-l f1-l b-ns strong-underline teal-blue dib pr4 mb0 lh-title">
-          {{ .Site.Title }}.
-        </h1>
-        {{ with .Params.description }}
-          <h2 class="fw1 f5 f3-l teal-blue measure-wide-l center lh-copy mb4">
-            {{ . }}
-          </h2>
-        {{ end }}
-      </div>
+<header>
+  <div class="{{ .Site.Params.background_color_class | default "bg-header" }}">
+    <div class="pt6 pb3 ph3 ph4-ns">
+      <h1 class="dib ml6-l f1-l b-ns strong-underline teal-blue dib pr4 mb0 lh-title">
+        {{ .Site.Title }}.
+      </h1>
+      {{ with .Params.description }}
+      <h2 class="fw1 f5 f3-l site-title measure-wide-l center lh-copy mb4">
+        {{ . }}
+      </h2>
+      {{ end }}
     </div>
-  </header>
+  </div>
+</header>
 {{ end }}

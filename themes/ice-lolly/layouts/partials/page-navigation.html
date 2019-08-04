@@ -1,11 +1,11 @@
-<nav class="ph3 ph4-ns" role="navigation">
+<nav class="" role="navigation">
   <div class="justify-between items-center center">
     <div class="items-center">
       {{ partial "i18nlist.html" . }}
       {{ if .Site.Menus.main }}
       <ul class="pl0 mr3">
         {{ range .Site.Menus.main }}
-        <li class="list f4 f3-ns fw4 db dib-m dib-l pr4">
+        <li class="list f4 f3-ns fw4 db dib-m dib-l pr4 pv0-ns pv2">
           <a class="nav-vari-color no-underline b" href="{{ .URL }}" title="{{ .Name }} page">
             {{ .Name }}
           </a>
@@ -17,4 +17,3 @@
     </div>
   </div>
 </nav>
-  

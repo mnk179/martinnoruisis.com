@@ -3,15 +3,15 @@
     <div class="items-center">
       {{ partial "i18nlist.html" . }}
       {{ if .Site.Menus.main }}
-        <ul class="pl0 mr3">
-          {{ range .Site.Menus.main }}
-          <li class="list f4 f2-5-ns fw4 db dib-m dib-l pb4 pr5">
-            <a class="nav-vari-color no-underline b" href="{{ .URL }}" title="{{ .Name }} page">
-              {{ .Name }}
-            </a>
-          </li>
-          {{ end }}
-        </ul>
+      <ul class="pl0 mr3">
+        {{ range .Site.Menus.main }}
+        <li class="list f4 f2-5-ns fw4 db dib-m dib-l pb4 pr5">
+          <a class="nav-vari-color no-underline b" href="{{ .URL }}" title="{{ .Name }} page">
+            {{ .Name }}
+          </a>
+        </li>
+        {{ end }}
+      </ul>
       {{ end }}
       {{ partial "social-follow.html" . }}
     </div>
