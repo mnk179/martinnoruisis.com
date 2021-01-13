@@ -4,6 +4,10 @@ title: Martin Noruišis
 theme: ice-lolly
 params:
   dateFormat: "02 Jan 2006"
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
 menu: 
   main:
     - identifier: about
