@@ -12,6 +12,6 @@ Hello World!
 
 I am Martin, jack of all trades, master of none. I have a weird name and I come from a strange land.
 
-A Computer Science student at the University of Bristol. Currently working as a Software Engineer in Dublin.
+A Computer Science student at the University of Bristol.
 
 My many passions include travel, books, videography, coding, squash, and life in general.
